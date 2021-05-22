@@ -1,5 +1,6 @@
 .idea
 /00-mvc/**/out/
+/00-mvc/**/target/
 
 .DS_Store
 node_modules/
