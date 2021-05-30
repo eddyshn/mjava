@@ -5,3 +5,10 @@ mvn dependency:tree
 mvn dependency:tree -Dverbose
 mvn dependency:tree -Dverbose -Dincludes=commons-collections
 https://maven.apache.org/plugins/maven-dependency-plugin/examples/resolving-conflicts-using-the-dependency-tree.html
+
+ServletContext是JavaWeb四大域对象之一：
+
+ PageContext
+ ServletRequest
+ HttpSession
+ ServletContext

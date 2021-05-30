@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-@WebServlet("/servlet2")
+@WebServlet("/bull")
 public class Servlet2 extends GenericServlet {
 
 
@@ -17,6 +17,6 @@ public class Servlet2 extends GenericServlet {
         System.out.println("该说的话我给小牛说了，小牛听到了给我回复收到，并把我说的话传给母牛");
         ServletContext application = this.getServletContext();
         application.setAttribute("name","母牛");
-        application.getRequestDispatcher("/servlet3").forward(servletRequest,servletResponse);
+        application.getRequestDispatcher("/calf").forward(servletRequest,servletResponse);
     }
 }

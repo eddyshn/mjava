@@ -12,6 +12,6 @@
 </head>
 <body>
 h2>公牛表白准备</h2>
-<a href="/servlet2">去表白</a>
+<a href="/bull">去表白</a>
 </body>
 </html>
