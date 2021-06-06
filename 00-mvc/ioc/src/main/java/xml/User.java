@@ -1,4 +1,4 @@
-package com.eddy.model;
+package xml;
 
 public class User {
 

@@ -1,4 +1,5 @@
-import com.eddy.model.User;
+package xml;
+
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Main {

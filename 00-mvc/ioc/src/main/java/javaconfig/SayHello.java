@@ -1,4 +1,4 @@
-package com.eddy.javaconfig;
+package javaconfig;
 
 public class SayHello {
     public String sayHello(String name) {
