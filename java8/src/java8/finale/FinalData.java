@@ -1,4 +1,4 @@
-package java.finale;
+package java8.finale;
 
 import java.util.Random;
 
