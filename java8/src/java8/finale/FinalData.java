@@ -1,5 +1,6 @@
 package java8.finale;
 
+
 import java.util.Random;
 
 public class FinalData {
@@ -20,5 +21,4 @@ public class FinalData {
     public FinalData() {
         j = 1;
     }
-
 }
