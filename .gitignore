@@ -9,6 +9,7 @@ dist/
 # local env files
 .env.local
 .env.*.local
+dependency-reduced-pom.xml
 
 # Log files
 npm-debug.log*
