@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    on-profile: dev
+ftpurl:
+  www.dev.ftp.com

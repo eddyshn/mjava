@@ -1,0 +1,1 @@
+@SpringBootApplication 默认扫描当前文件所在包下面的所有类，如果要更改目录要加@Componentscan

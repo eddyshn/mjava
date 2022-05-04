@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    on-profile: prod
+dburl:
+  www.prod.db.com

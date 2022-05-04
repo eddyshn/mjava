@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    on-profile: dev
+dburl:
+  www.dev.db.com
