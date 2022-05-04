@@ -1,4 +1,5 @@
 .idea
+.mvn
 /00-mvc/**/out/
 /00-mvc/**/target/
 
